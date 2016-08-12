@@ -1,5 +1,5 @@
 #Functional Interface
 
-What
-Why
-How
+###What
+###Why
+###How
